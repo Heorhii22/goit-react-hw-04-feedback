@@ -1,3 +1,3 @@
 export function Notification({ message }) {
-    return <h2>{message}</h2>
+  return <h2>{message}</h2>;
 }
